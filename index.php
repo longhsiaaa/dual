@@ -3,3 +3,4 @@ echo "Home page";
 ?>
 <head>
 </head>swar
+index2
